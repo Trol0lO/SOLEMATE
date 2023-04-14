@@ -5,8 +5,9 @@
     "\\frontend\\.angular",
     "\\frontend\\src",
     "\\frontend\\src\\app",
-    "\\frontend\\src\\app\\sidenav"
+    "\\frontend\\src\\app\\dashboard",
+    "\\frontend\\src\\app\\sidenav",
+    "\\frontend\\src\\assets"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
