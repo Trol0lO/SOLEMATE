@@ -5,8 +5,7 @@
     "\\frontend\\.angular",
     "\\frontend\\src",
     "\\frontend\\src\\app",
-    "\\frontend\\src\\app\\dashboard",
-    "\\frontend\\src\\app\\sidenav",
+    "\\frontend\\src\\app\\seller-auth",
     "\\frontend\\src\\assets"
   ],
   "PreviewInSolutionExplorer": false
